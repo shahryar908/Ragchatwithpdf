@@ -173,5 +173,9 @@ This project is open-source under the MIT License. You can use, modify, and shar
 If you’re stuck, feel free to open an issue or connect with me!
 
 ---
+Next steps:
+   keep learning and also make improved version 
+   with the agentic rag project
+   
 
 Happy building! 🚀
